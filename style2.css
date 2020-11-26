@@ -1,0 +1,202 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+}
+body{
+    background-color: white;
+    height: 100vh;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    display: flex;
+    flex-direction: column;
+}
+.contener{
+   
+  margin-top: 0;
+ width: 100%;
+ background-color:#1ebea5;
+ position: fixed;
+ z-index:100;  
+
+}
+
+
+.contener #logo a{
+float: left;
+width: 40%;
+margin-left: 200px;
+line-height: 10px;
+
+
+}
+.contener #logo a img{
+    position: relative;
+    text-align: justify}
+
+
+    .contener #logo a {
+        position: relative;
+        top : 20px ;
+        text-align: justify;
+        color: white;
+     
+}
+
+
+nav ul li  a img{
+    margin-top: 10px;
+}
+.contener header nav{
+    float: right;
+    width: 70%;
+    
+    padding-bottom: 15px;
+
+}
+header nav ul li {
+    
+    
+    align-items: center;
+    padding-bottom: 70%;
+    list-style: none;
+    display: inline;
+    scroll-margin-block: 15px;
+    margin-left: 50px;
+
+}
+
+header nav ul li a {
+    color: white;
+    text-decoration: none;
+    padding-top: -2010px;
+
+}
+nav{
+    position: relative;
+    top: -50px;
+
+
+}
+#logo a{
+    text-decoration: none;
+
+}
+
+.section1{
+
+    width: 100%;
+    position: relative;
+    top: 200px;
+  
+    margin-bottom: 20%;
+    
+}
+#section11{
+    position: relative;
+    left: 100px;
+    width: 30%;
+   margin-left: 200px
+    
+}
+#section12{
+    position: relative;
+    right: -30px;
+    margin-top: -80%;
+    margin-right: 10%;
+    margin-left: 100%;
+    width: 30%;
+  
+}
+#section12 img{
+width: 400px;
+
+
+}.section13{
+border: 1px solid black;
+
+width: 80%;
+height: 600px;
+margin: 0 auto;
+margin-bottom: 10%;
+
+}
+#sect1{
+    border: 1px solid black;
+    background-color: #d0e9ea;
+    float: left ;
+
+
+    width: 45%; height: 100%;
+  
+
+}
+#sect2{
+    border: 1px solid black;
+    background-color: #edf8f5;
+ float: right;
+    width: 45%; height: 100%;
+}
+
+#sect1 img{
+    width: 67%;
+    padding-left: 20%;
+   margin-top: 40px;
+    margin: 0 auto;
+    vertical-align: baseline;
+}
+footer{
+    width: 70%;
+}
+/*
+
+.contener{
+    flex: 1 0 auto;
+}
+.contene p {text-align: 5vw 10vw;
+    text-align: justify;
+    }
+ h2{
+    font-size: 10px;
+    text-align: center;
+    margin-top: 20px;
+    color: white;
+
+}
+
+footer{
+    flex-shrink: 0;
+    border-top: 1px dashed#000;
+    width: 100%;
+    background:#232f3c;
+    color: white;
+}
+
+#contenu-footer{
+    width: 1200px;
+    margin: 0 auto;
+    display: flex;
+    justify-content: center;
+    align-items: flex-start;
+    font-size: 20px;
+    padding: 50px 0 100px;
+}
+.bloc{
+    width: 25%;
+    margin: 0 30px
+}
+.liste-WHATSAPP,
+.liste-SOCIETES,
+.liste-TELECHARGER,
+.liste.ASSISTANCE }
+list
+}
+img {
+    width: 20px;
+}
+    
+  /*  footer*
+ 
+   
